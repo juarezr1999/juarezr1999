@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juarezr1999
+- 👋 Hi, I’m @Rollin_juarez
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel/PHP, VueJS, React and Node
 - 📫 Email me on "rollinjuarez@gmail.com"
